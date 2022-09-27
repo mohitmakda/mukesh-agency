@@ -48,6 +48,11 @@
     display: flex;
     font-family: 'Baloo Bhai 2', cursive;
 }
+
+a{
+    color: yellow;
+}
+
 #navbar ul li a:hover{
     color: black;
     background-color: white;}
