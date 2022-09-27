@@ -1,0 +1,38 @@
+
+
+
+
+#navbar{
+
+    flex-direction: column;
+
+}
+
+section{
+    height: 280px;
+    /* flex-direction: column; */
+    /* padding: 3px 38px; */
+    /* width: 100%; */
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+#section::before{
+    height: 620px;
+}
+
+#services{
+    flex-direction: column;
+    
+}
+
+.h1-primary{
+    font-size: 5px;
+    width: 400px;
+    height: 120px;
+    
+}
+
+p{
+    font-size: 20px;
+}
